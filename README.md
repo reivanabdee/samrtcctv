@@ -1,7 +1,7 @@
 # project semester 6 (on Progress)
-Dual Camera
+Berbasis dual Camera, 
 1 Untuk mengidentifikasi pemilik toko di sekitar area toko
-Dan 1 lagi memantau area (garasi/toko) 
+Dan 1 lagi untuk memantau area (garasi/toko) 
 
 
 
