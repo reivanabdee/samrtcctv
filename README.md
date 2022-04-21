@@ -1,7 +1,10 @@
 # project semester 6 (on Progress)
 Berbasis dual Camera, 
 1 Untuk mengidentifikasi pemilik toko di sekitar area toko
-Dan 1 lagi untuk memantau area (garasi/toko) 
+Dan 1 lagi untuk memantau area (garasi/toko)
+
+# Cara kerja
+Jika kamera utama (1) tidak mendeteksi pemilik toko, maka kamera kedua akan otomatis menyala. Nantinya sistem ini akan memakai YOLO dan dapat mengklasifikasi jenis bahaya atau ancaman pencurian dengan alarm *jika sudah melewati garis merah (level 3) 
 
 
 
