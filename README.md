@@ -19,3 +19,6 @@ Untuk kamera kedua menggunakan aplikasi android IP Camera Pro, dengan menggunaka
 
 ![png](https://github.com/reivanabdee/samrtcctv/blob/main/Screenshot_2022-04-21-04-42-45_1366x768.png)
 ![png](https://github.com/reivanabdee/samrtcctv/blob/main/Screenshot_2022-04-21-04-42-27_1366x768.png)
+
+# catatan 
+ cctv2.ipynb adalah alternatif jika cctv.ipynb tidak bisa running
