@@ -15,7 +15,7 @@ Jika kamera utama (1) tidak mendeteksi pemilik toko, maka kamera kedua akan otom
 ![gif](https://github.com/reivanabdee/samrtcctv/blob/main/cctv.gif)
 
 # Settingan kamera ke 2
-Untuk kamera kedua menggunakan aplikasi android IP Camera Pro, dengan menggunakan satu jaringan yang sama. Adapun settingannya sebagai berikut: 
+Untuk kamera kedua menggunakan aplikasi android IP Camera Pro <a href="https://s3.apk4all.com/apps/2020/11/1/IP_Webcam_Pro_v1.15.0r.768_Apk4all.com.apk">download disini</a> , dengan menggunakan satu jaringan yang sama. Adapun settingannya sebagai berikut: 
 
 ![png](https://github.com/reivanabdee/samrtcctv/blob/main/Screenshot_2022-04-21-04-42-45_1366x768.png)
 ![png](https://github.com/reivanabdee/samrtcctv/blob/main/Screenshot_2022-04-21-04-42-27_1366x768.png)
